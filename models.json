@@ -1,9 +1,6 @@
 {
   "models": [
-    {
-      "name": "AR 1",
-      "file": "AR_1.glb"
-    },
+   
     {
       "name": "Case",
       "file": "case.glb"
