@@ -2,6 +2,7 @@
   "models": [
     { "name": "Mech", "file": "Mech3.glb" },
     { "name": "Orc", "file": "orc.glb" },
-    { "name": "Blockman", "file": "blockman.glb" }
+    { "name": "Blockman", "file": "blockman.glb" },
+    {"name":"case","file":"case.glb"}
   ]
 }
