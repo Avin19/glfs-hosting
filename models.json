@@ -1,0 +1,7 @@
+{
+  "models": [
+    { "name": "Mech", "file": "Mech3.glb" },
+    { "name": "Orc", "file": "orc.glb" },
+    { "name": "Blockman", "file": "blockman.glb" }
+  ]
+}
