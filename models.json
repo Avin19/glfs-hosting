@@ -1,21 +1,32 @@
 {
   "models": [
-   
     {
       "name": "Case",
       "file": "case.glb"
+    },
+    {
+      "name": "KS-18L Kickstand Reinforced",
+      "file": "KS-18L_kickstand_reinforced.glb"
     },
     {
       "name": "Mech",
       "file": "Mech3.glb"
     },
     {
-      "name": "Orc",
-      "file": "orc.glb"
+      "name": "Steel Judoka Gravity",
+      "file": "Mech_SteelJudoka_Gravity.glb"
     },
     {
-      "name": "Blockman",
-      "file": "blockman.glb"
+      "name": "Steel Judoka Judo",
+      "file": "Mech_SteelJudoka_Judo.glb"
+    },
+    {
+      "name": "Steel Judoka Siege",
+      "file": "Mech_SteelJudoka_Siege.glb"
+    },
+    {
+      "name": "Zenith Guard Charge",
+      "file": "Mech_ZenithGuard_Charge.glb"
     }
   ]
 }
